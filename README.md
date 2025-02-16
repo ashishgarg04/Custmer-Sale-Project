@@ -1,1 +1,3 @@
 # Custmer-Sale-Project
+
+This is my first power bi project. as a first project i learned a lot about power bi basic to advanced thing and i familiar with power bi interface. This project name is customer-sale-prediction , i download a csv data from kaggle and import into power bi first i load into power Query then i cleaned the data like remove error and all empty value, changed data type that need to be changed after transform and reshape the data i put into model view where i established connection between tables, then opened it into report view where i make report and dashboard using chart, graph etc.
